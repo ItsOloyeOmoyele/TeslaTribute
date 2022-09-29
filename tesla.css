@@ -14,23 +14,22 @@ body {
   width: 100%;
   padding: 0px;
   margin: 0px;
-  height: fit-content;
+  border: solid 4px green;
 }
 hr {
   margin-top: -8px;
 }
 .col1 {
   display: inline-block;
-  width: 40%;
+  width: 30%;
   padding-left: 10px;
-  padding-right: -20px;
+  border: solid 2px blue;
 }
 .col2 {
   display: inline-block;
-  width: 56%;
+  width: 65%;
   font-size: 20px;
-  margin-top: -20px;
-  padding-top: px;
+  border: solid 2px red;
 }
 h1 {
   text-decoration: underline;
@@ -45,6 +44,6 @@ h3 {
   margin-top: -20px;
 }
 img {
-  width: 750px;
-  height: 600px;
+  width: 100%;
+  height: auto;
 }

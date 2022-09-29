@@ -1,0 +1,50 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: hsla(0, 0%, 0%, 0.342);
+}
+
+#tribute {
+  width: 100vw;
+  margin: 0;
+}
+.row {
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  height: fit-content;
+}
+hr {
+  margin-top: -8px;
+}
+.col1 {
+  display: inline-block;
+  width: 40%;
+  padding-left: 10px;
+  padding-right: -20px;
+}
+.col2 {
+  display: inline-block;
+  width: 56%;
+  font-size: 20px;
+  margin-top: -20px;
+  padding-top: px;
+}
+h1 {
+  text-decoration: underline;
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 50px;
+}
+h3 {
+  text-align: center;
+  color: hsla(0, 100%, 50%, 0.589);
+  margin-top: -20px;
+}
+img {
+  width: 750px;
+  height: 600px;
+}

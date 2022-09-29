@@ -14,7 +14,6 @@ body {
   width: 100%;
   padding: 0px;
   margin: 0px;
-  border: solid 4px green;
 }
 hr {
   margin-top: -8px;
@@ -23,13 +22,11 @@ hr {
   display: inline-block;
   width: 30%;
   padding-left: 10px;
-  border: solid 2px blue;
 }
 .col2 {
   display: inline-block;
   width: 65%;
   font-size: 20px;
-  border: solid 2px red;
 }
 h1 {
   text-decoration: underline;
